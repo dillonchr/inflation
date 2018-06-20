@@ -1,0 +1,22 @@
+{
+  "name": "@dillonchr/inflation",
+  "version": "1.0.0",
+  "description": "inflation calculator parser",
+  "main": "inflation.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonchr/inflation.git"
+  },
+  "author": "@dillonchr",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dillonchr/inflation/issues"
+  },
+  "homepage": "https://github.com/dillonchr/inflation#readme",
+  "dependencies": {
+    "@dillonchr/domget": "^1.0.0"
+  }
+}
